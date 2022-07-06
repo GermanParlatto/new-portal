@@ -16,7 +16,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <HelmetProvider>
-    <BrowserRouter>
+    <BrowserRouter basename='/new-portal'>
       <App />
     </BrowserRouter>
   </HelmetProvider>
