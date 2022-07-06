@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GermanParlatto/new-portal.git/static/css/main.25895456.css",
+    "main.js": "/GermanParlatto/new-portal.git/static/js/main.ccd0877b.js",
+    "static/js/787.d9823177.chunk.js": "/GermanParlatto/new-portal.git/static/js/787.d9823177.chunk.js",
+    "index.html": "/GermanParlatto/new-portal.git/index.html",
+    "main.25895456.css.map": "/GermanParlatto/new-portal.git/static/css/main.25895456.css.map",
+    "main.ccd0877b.js.map": "/GermanParlatto/new-portal.git/static/js/main.ccd0877b.js.map",
+    "787.d9823177.chunk.js.map": "/GermanParlatto/new-portal.git/static/js/787.d9823177.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25895456.css",
+    "static/js/main.ccd0877b.js"
+  ]
+}
